@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "taiphone-eval"
+version = "0.1.0"
+description = ""
+authors = ["aqweteddy <keddy940199@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+litellm = "^1.71.2"
+vllm = "^0.9.0"
+datasets = "^3.6.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
