@@ -1,4 +1,4 @@
-# TaiPhone: LLM Evaluation for Traditional Chinese
+# TaiPhoneEval: LLM Evaluation for Traditional Chinese
 
 A comprehensive evaluation  designed to assess LLMs, with specialized support for Traditional Chinese language evaluation.
 
