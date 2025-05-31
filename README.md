@@ -5,6 +5,7 @@ A comprehensive evaluation  designed to assess LLMs, with specialized support fo
 ## Overview
 
 TaiPhone provides a robust suite of evaluation tools and scripts for:
+- Evalutaion scripts of [TaiPhone LLM Project](https://huggingface.co/collections/aqweteddy/taiphone-llm-682e0227061019ba82ed2307).
 - Multiple-choice question (MCQ) assessment
 - MT-Bench evaluation in Traditional Chinese
 - Flexible LLM backend integration via LiteLLM
