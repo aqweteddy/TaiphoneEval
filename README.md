@@ -74,12 +74,6 @@ python scripts/eval_mt_bench_zhtw.py \
     --output_path result/mt-bench-zhtw/$MODEL_NAME.json
 ```
 
-## Technical Stack
-
-- **LiteLLM**: Unified LLM API interface
-- **VLLM**: High-performance inference engine
-- **Datasets**: Dataset management and processing
-
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
